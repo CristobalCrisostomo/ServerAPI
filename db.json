@@ -1,0 +1,40 @@
+{
+  "produits":[
+  {
+    "id": 1,
+    "name": "Carottes",
+    "type": "Légume racine",
+    "quantity": "50",
+    "price": "2.50",
+    "image": "../images/carottes.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tomates",
+    "type": "Légume fruit",
+    "quantity": "100",
+    "price": "3.00",
+    "image": "../images/tomates.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Concombres",
+    "type": "Légume fruit",
+    "quantity": "60",
+    "price": "2.75",
+    "image": "../images/concombres.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Poivrons",
+    "type": "Légume fruit",
+    "quantity": "50",
+    "price": "4.50",
+    "image": "../images/poivrons.jpg"
+  }
+  ],
+  
+  "profile": {
+    "name": "typicode"
+  }
+}
