@@ -233,6 +233,38 @@
       "image": "../images/dinde.jpg"
     }
   ],
+  "type": [
+    {
+      "id": 1,
+      "name": "Légumes",
+      "image": "../images/legumes.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Fruits",
+      "image": "../images/fruits.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Épicerie",
+      "image": "../images/epicerie.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Boulangerie",
+      "image": "../images/boulangerie.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Boissons",
+      "image": "../images/boissons.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Viande",
+      "image": "../images/viande.jpg"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
