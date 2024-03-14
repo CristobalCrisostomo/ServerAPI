@@ -1,39 +1,238 @@
 {
-  "produits":[
-  {
-    "id": 1,
-    "name": "Carottes",
-    "type": "Légume racine",
-    "quantity": "50",
-    "price": "2.50",
-    "image": "../images/carottes.jpg"
-  },
-  {
-    "id": 2,
-    "name": "Tomates",
-    "type": "Légume fruit",
-    "quantity": "100",
-    "price": "3.00",
-    "image": "../images/tomates.jpg"
-  },
-  {
-    "id": 3,
-    "name": "Concombres",
-    "type": "Légume fruit",
-    "quantity": "60",
-    "price": "2.75",
-    "image": "../images/concombres.jpg"
-  },
-  {
-    "id": 4,
-    "name": "Poivrons",
-    "type": "Légume fruit",
-    "quantity": "50",
-    "price": "4.50",
-    "image": "../images/poivrons.jpg"
-  }
+  "produits": [
+    {
+      "id": 1,
+      "name": "Carottes",
+      "type": "Légume",
+      "quantity": "50",
+      "price": "2.50",
+      "image": "../images/carottes.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Tomates",
+      "type": "Légume",
+      "quantity": "100",
+      "price": "3.00",
+      "image": "../images/tomates.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Concombres",
+      "type": "Légume",
+      "quantity": "60",
+      "price": "2.75",
+      "image": "../images/concombres.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Poivrons",
+      "type": "Légume",
+      "quantity": "50",
+      "price": "4.50",
+      "image": "../images/poivrons.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Melons",
+      "type": "Fruit",
+      "quantity": "70",
+      "price": "4.50",
+      "image": "../images/melons.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Pastèques",
+      "type": "Fruit",
+      "quantity": "60",
+      "price": "5.00",
+      "image": "../images/pasteques.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Ananas",
+      "type": "Fruit",
+      "quantity": "65",
+      "price": "3.75",
+      "image": "../images/ananas.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Fraises",
+      "type": "Fruit",
+      "quantity": "80",
+      "price": "4.00",
+      "image": "../images/fraises.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Kiwi",
+      "type": "Fruit",
+      "quantity": "70",
+      "price": "2.50",
+      "image": "../images/kiwi.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Farine",
+      "type": "Épicerie",
+      "quantity": "1000",
+      "price": "2.50",
+      "image": "../images/farine.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Sucre",
+      "type": "Épicerie",
+      "quantity": "800",
+      "price": "1.80",
+      "image": "../images/sucre.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Riz",
+      "type": "Épicerie",
+      "quantity": "900",
+      "price": "2.20",
+      "image": "../images/riz.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Huile d'olive",
+      "type": "Épicerie",
+      "quantity": "750",
+      "price": "5.00",
+      "image": "../images/huile_olive.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Pâtes",
+      "type": "Épicerie",
+      "quantity": "700",
+      "price": "1.50",
+      "image": "../images/pates.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Pain de campagne",
+      "type": "Boulangerie",
+      "quantity": "150",
+      "price": "3.00",
+      "image": "../images/pain_campagne.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Croissants",
+      "type": "Boulangerie",
+      "quantity": "100",
+      "price": "1.50",
+      "image": "../images/croissants.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Baguettes",
+      "type": "Boulangerie",
+      "quantity": "120",
+      "price": "2.00",
+      "image": "../images/baguettes.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Pain aux raisins",
+      "type": "Boulangerie",
+      "quantity": "80",
+      "price": "2.50",
+      "image": "../images/pain_raisins.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Pain au chocolat",
+      "type": "Boulangerie",
+      "quantity": "90",
+      "price": "2.25",
+      "image": "../images/pain_chocolat.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Eau minérale",
+      "type": "Boisson",
+      "quantity": "200",
+      "price": "1.00",
+      "image": "../images/eau_minerale.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Coca-Cola",
+      "type": "Boisson",
+      "quantity": "150",
+      "price": "1.50",
+      "image": "../images/coca_cola.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Jus d'orange",
+      "type": "Boisson",
+      "quantity": "120",
+      "price": "2.00",
+      "image": "../images/jus_orange.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Café",
+      "type": "Boisson",
+      "quantity": "100",
+      "price": "2.50",
+      "image": "../images/cafe.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Thé",
+      "type": "Boisson",
+      "quantity": "80",
+      "price": "2.00",
+      "image": "../images/the.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Poulet",
+      "type": "Viande",
+      "quantity": "500",
+      "price": "5.00",
+      "image": "../images/poulet.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Boeuf",
+      "type": "Viande",
+      "quantity": "400",
+      "price": "8.00",
+      "image": "../images/boeuf.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Porc",
+      "type": "Viande",
+      "quantity": "450",
+      "price": "6.50",
+      "image": "../images/porc.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Agneau",
+      "type": "Viande",
+      "quantity": "300",
+      "price": "9.00",
+      "image": "../images/agneau.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Dinde",
+      "type": "Viande",
+      "quantity": "350",
+      "price": "7.00",
+      "image": "../images/dinde.jpg"
+    }
   ],
-  
   "profile": {
     "name": "typicode"
   }
