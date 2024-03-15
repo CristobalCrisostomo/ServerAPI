@@ -237,32 +237,32 @@
     {
       "id": 1,
       "name": "Légume",
-      "image": "../images/legumes.jpg"
+      "image": "legumes.jpg"
     },
     {
       "id": 2,
       "name": "Fruit",
-      "image": "../images/fruits.jpg"
+      "image": "fruits.jpg"
     },
     {
       "id": 3,
       "name": "Épicerie",
-      "image": "../images/epicerie.png"
+      "image": "epicerie.png"
     },
     {
       "id": 4,
       "name": "Boulangerie",
-      "image": "../images/boulangerie.jpg"
+      "image": "boulangerie.jpg"
     },
     {
       "id": 5,
       "name": "Boisson",
-      "image": "../images/boissons.jpg"
+      "image": "boissons.jpg"
     },
     {
       "id": 6,
       "name": "Viande",
-      "image": "../images/viande.jpg"
+      "image": "viande.jpg"
     }
   ],
   "profile": {
