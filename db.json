@@ -6,7 +6,7 @@
       "categorie": "Légume",
       "quantity": "50",
       "price": "2.50",
-      "image": "../images/carottes.jpg"
+      "image": "carottes.jpg"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "categorie": "Légume",
       "quantity": "100",
       "price": "3.00",
-      "image": "../images/tomates.jpg"
+      "image": "tomates.jpg"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "categorie": "Légume",
       "quantity": "60",
       "price": "2.75",
-      "image": "../images/concombres.jpg"
+      "image": "concombres.jpg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "categorie": "Légume",
       "quantity": "50",
       "price": "4.50",
-      "image": "../images/poivrons.jpg"
+      "image": "poivrons.jpg"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "categorie": "Fruit",
       "quantity": "70",
       "price": "4.50",
-      "image": "../images/melons.jpg"
+      "image": "melons.jpg"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "categorie": "Fruit",
       "quantity": "60",
       "price": "5.00",
-      "image": "../images/pasteques.jpg"
+      "image": "pasteques.jpg"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "categorie": "Fruit",
       "quantity": "65",
       "price": "3.75",
-      "image": "../images/ananas.jpg"
+      "image": "ananas.jpg"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "categorie": "Fruit",
       "quantity": "80",
       "price": "4.00",
-      "image": "../images/fraises.jpg"
+      "image": "fraises.jpg"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "categorie": "Fruit",
       "quantity": "70",
       "price": "2.50",
-      "image": "../images/kiwi.jpg"
+      "image": "kiwi.jpg"
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "categorie": "Épicerie",
       "quantity": "1000",
       "price": "2.50",
-      "image": "../images/farine.jpg"
+      "image": "farine.jpg"
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "categorie": "Épicerie",
       "quantity": "800",
       "price": "1.80",
-      "image": "../images/sucre.jpg"
+      "image": "sucre.jpg"
     },
     {
       "id": 12,
@@ -94,7 +94,7 @@
       "categorie": "Épicerie",
       "quantity": "900",
       "price": "2.20",
-      "image": "../images/riz.jpg"
+      "image": "riz.jpg"
     },
     {
       "id": 13,
@@ -102,7 +102,7 @@
       "categorie": "Épicerie",
       "quantity": "750",
       "price": "5.00",
-      "image": "../images/huile_olive.jpg"
+      "image": "huile_olive.jpg"
     },
     {
       "id": 14,
@@ -110,7 +110,7 @@
       "categorie": "Épicerie",
       "quantity": "700",
       "price": "1.50",
-      "image": "../images/pates.jpg"
+      "image": "pates.jpg"
     },
     {
       "id": 15,
@@ -118,7 +118,7 @@
       "categorie": "Boulangerie",
       "quantity": "150",
       "price": "3.00",
-      "image": "../images/pain_campagne.jpg"
+      "image": "pain_campagne.jpg"
     },
     {
       "id": 16,
@@ -126,7 +126,7 @@
       "categorie": "Boulangerie",
       "quantity": "100",
       "price": "1.50",
-      "image": "../images/croissants.jpg"
+      "image": "croissants.jpg"
     },
     {
       "id": 17,
@@ -134,7 +134,7 @@
       "categorie": "Boulangerie",
       "quantity": "120",
       "price": "2.00",
-      "image": "../images/baguettes.jpg"
+      "image": "baguettes.jpg"
     },
     {
       "id": 18,
@@ -142,7 +142,7 @@
       "categorie": "Boulangerie",
       "quantity": "80",
       "price": "2.50",
-      "image": "../images/pain_raisins.jpg"
+      "image": "pain_raisins.jpg"
     },
     {
       "id": 19,
@@ -150,7 +150,7 @@
       "categorie": "Boulangerie",
       "quantity": "90",
       "price": "2.25",
-      "image": "../images/pain_chocolat.jpg"
+      "image": "pain_chocolat.jpg"
     },
     {
       "id": 20,
@@ -158,7 +158,7 @@
       "categorie": "Boisson",
       "quantity": "200",
       "price": "1.00",
-      "image": "../images/eau_minerale.jpg"
+      "image": "eau_minerale.jpg"
     },
     {
       "id": 21,
@@ -166,7 +166,7 @@
       "categorie": "Boisson",
       "quantity": "150",
       "price": "1.50",
-      "image": "../images/coca_cola.jpg"
+      "image": "coca_cola.jpg"
     },
     {
       "id": 22,
@@ -174,7 +174,7 @@
       "categorie": "Boisson",
       "quantity": "120",
       "price": "2.00",
-      "image": "../images/jus_orange.jpg"
+      "image": "jus_orange.jpg"
     },
     {
       "id": 23,
@@ -182,7 +182,7 @@
       "categorie": "Boisson",
       "quantity": "100",
       "price": "2.50",
-      "image": "../images/cafe.jpg"
+      "image": "cafe.jpg"
     },
     {
       "id": 24,
@@ -190,7 +190,7 @@
       "categorie": "Boisson",
       "quantity": "80",
       "price": "2.00",
-      "image": "../images/the.jpg"
+      "image": "the.jpg"
     },
     {
       "id": 25,
@@ -198,7 +198,7 @@
       "categorie": "Viande",
       "quantity": "500",
       "price": "5.00",
-      "image": "../images/poulet.jpg"
+      "image": "poulet.jpg"
     },
     {
       "id": 26,
@@ -206,7 +206,7 @@
       "categorie": "Viande",
       "quantity": "400",
       "price": "8.00",
-      "image": "../images/boeuf.jpg"
+      "image": "boeuf.jpg"
     },
     {
       "id": 27,
@@ -214,7 +214,7 @@
       "categorie": "Viande",
       "quantity": "450",
       "price": "6.50",
-      "image": "../images/porc.jpg"
+      "image": "porc.jpg"
     },
     {
       "id": 28,
@@ -222,7 +222,7 @@
       "categorie": "Viande",
       "quantity": "300",
       "price": "9.00",
-      "image": "../images/agneau.jpg"
+      "image": "agneau.jpg"
     },
     {
       "id": 29,
@@ -230,7 +230,7 @@
       "categorie": "Viande",
       "quantity": "350",
       "price": "7.00",
-      "image": "../images/dinde.jpg"
+      "image": "dinde.jpg"
     }
   ],
   "categories": [
