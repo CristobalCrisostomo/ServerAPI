@@ -237,32 +237,32 @@
     {
       "id": 1,
       "name": "Légume",
-      "image": "legumes.jpg"
+      "image": "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
     },
     {
       "id": 2,
       "name": "Fruit",
-      "image": "fruits.jpg"
+      "image": "https://cdn.pixabay.com/photo/2016/04/01/12/20/apple-1300670_1280.png"
     },
     {
       "id": 3,
       "name": "Épicerie",
-      "image": "epicerie.png"
+      "image": "https://cdn.pixabay.com/photo/2019/09/01/12/01/salt-4445081_1280.png"
     },
     {
       "id": 4,
       "name": "Boulangerie",
-      "image": "boulangerie.jpg"
+      "image": "https://cdn.pixabay.com/photo/2018/05/02/02/02/bread-3367582_1280.png"
     },
     {
       "id": 5,
       "name": "Boisson",
-      "image": "boissons.jpg"
+      "image": "https://cdn.pixabay.com/photo/2014/09/12/18/20/can-443123_1280.png"
     },
     {
       "id": 6,
       "name": "Viande",
-      "image": "viande.jpg"
+      "image": "https://cdn.pixabay.com/photo/2013/07/12/14/47/meat-148789_1280.png"
     }
   ],
   "profile": {
