@@ -6,7 +6,7 @@
       "categorie": "Légume",
       "quantity": "50",
       "price": "2.50",
-      "image": "carottes.jpg"
+      "image": "https://cdn.pixabay.com/photo/2014/12/21/23/34/carrot-575529_1280.png"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "categorie": "Légume",
       "quantity": "100",
       "price": "3.00",
-      "image": "tomates.jpg"
+      "image": "https://cdn.pixabay.com/photo/2017/01/31/21/56/food-2027563_1280.png"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "categorie": "Légume",
       "quantity": "60",
       "price": "2.75",
-      "image": "concombres.jpg"
+      "image": "https://cdn.pixabay.com/photo/2013/07/13/12/40/cucumber-160100_1280.png"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "categorie": "Légume",
       "quantity": "50",
       "price": "4.50",
-      "image": "poivrons.jpg"
+      "image": "https://cdn.pixabay.com/photo/2014/04/08/17/42/bell-peppers-319381_1280.png"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "categorie": "Fruit",
       "quantity": "70",
       "price": "4.50",
-      "image": "melons.jpg"
+      "image": "https://cdn.pixabay.com/photo/2012/04/16/13/31/honeydew-36014_1280.png"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "categorie": "Fruit",
       "quantity": "60",
       "price": "5.00",
-      "image": "pasteques.jpg"
+      "image": "https://pixabay.com/vectors/watermelon-fruit-food-sweet-154510/"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "categorie": "Fruit",
       "quantity": "65",
       "price": "3.75",
-      "image": "ananas.jpg"
+      "image": "https://cdn.pixabay.com/photo/2014/03/28/11/49/pineapple-300038_1280.png"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "categorie": "Fruit",
       "quantity": "80",
       "price": "4.00",
-      "image": "fraises.jpg"
+      "image": "https://cdn.pixabay.com/photo/2012/04/14/14/09/strawberry-34066_1280.png"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "categorie": "Fruit",
       "quantity": "70",
       "price": "2.50",
-      "image": "kiwi.jpg"
+      "image": "https://cdn.pixabay.com/photo/2013/07/13/13/53/kiwi-161728_1280.png"
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "categorie": "Épicerie",
       "quantity": "1000",
       "price": "2.50",
-      "image": "farine.jpg"
+      "image": "https://cdn.pixabay.com/photo/2021/09/06/00/22/wheat-flour-6600578_1280.png"
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "categorie": "Épicerie",
       "quantity": "800",
       "price": "1.80",
-      "image": "sucre.jpg"
+      "image": "https://cdn.pixabay.com/photo/2017/09/25/21/14/sugar-2786790_1280.png"
     },
     {
       "id": 12,
@@ -94,7 +94,7 @@
       "categorie": "Épicerie",
       "quantity": "900",
       "price": "2.20",
-      "image": "riz.jpg"
+      "image": "https://cdn.pixabay.com/photo/2014/12/22/00/03/bag-576707_1280.png"
     },
     {
       "id": 13,
@@ -102,7 +102,7 @@
       "categorie": "Épicerie",
       "quantity": "750",
       "price": "5.00",
-      "image": "huile_olive.jpg"
+      "image": "https://cdn.pixabay.com/photo/2013/07/13/12/33/oil-159855_1280.png"
     },
     {
       "id": 14,
@@ -110,15 +110,15 @@
       "categorie": "Épicerie",
       "quantity": "700",
       "price": "1.50",
-      "image": "pates.jpg"
+      "image": "https://cdn.pixabay.com/photo/2013/07/13/13/57/spaghetti-161834_1280.png"
     },
     {
       "id": 15,
-      "name": "Pain de campagne",
+      "name": "Pain",
       "categorie": "Boulangerie",
       "quantity": "150",
       "price": "3.00",
-      "image": "pain_campagne.jpg"
+      "image": "https://cdn.pixabay.com/photo/2016/05/09/12/01/white-bread-1381346_1280.png"
     },
     {
       "id": 16,
@@ -126,7 +126,7 @@
       "categorie": "Boulangerie",
       "quantity": "100",
       "price": "1.50",
-      "image": "croissants.jpg"
+      "image": "https://cdn.pixabay.com/photo/2018/02/25/13/01/croissant-3180459_1280.png"
     },
     {
       "id": 17,
@@ -134,7 +134,7 @@
       "categorie": "Boulangerie",
       "quantity": "120",
       "price": "2.00",
-      "image": "baguettes.jpg"
+      "image": "https://cdn.pixabay.com/photo/2022/08/28/06/33/baguette-7415790_1280.png"
     },
     {
       "id": 18,
@@ -142,15 +142,15 @@
       "categorie": "Boulangerie",
       "quantity": "80",
       "price": "2.50",
-      "image": "pain_raisins.jpg"
+      "image": "https://cdn.pixabay.com/photo/2014/12/22/00/05/bread-576777_1280.png"
     },
     {
       "id": 19,
-      "name": "Pain au chocolat",
+      "name": "Muffin",
       "categorie": "Boulangerie",
       "quantity": "90",
       "price": "2.25",
-      "image": "pain_chocolat.jpg"
+      "image": "https://cdn.pixabay.com/photo/2016/03/18/01/09/cupcake-1264214_1280.png"
     },
     {
       "id": 20,
@@ -158,7 +158,7 @@
       "categorie": "Boisson",
       "quantity": "200",
       "price": "1.00",
-      "image": "eau_minerale.jpg"
+      "image": "https://cdn.pixabay.com/photo/2019/04/14/15/37/bottledwater-4127009_1280.png"
     },
     {
       "id": 21,
@@ -166,7 +166,7 @@
       "categorie": "Boisson",
       "quantity": "150",
       "price": "1.50",
-      "image": "coca_cola.jpg"
+      "image": "https://cdn.pixabay.com/photo/2014/09/12/18/20/can-443123_1280.png"
     },
     {
       "id": 22,
@@ -174,7 +174,7 @@
       "categorie": "Boisson",
       "quantity": "120",
       "price": "2.00",
-      "image": "jus_orange.jpg"
+      "image": "https://cdn.pixabay.com/photo/2020/04/02/18/01/glass-4996146_1280.png"
     },
     {
       "id": 23,
@@ -182,7 +182,7 @@
       "categorie": "Boisson",
       "quantity": "100",
       "price": "2.50",
-      "image": "cafe.jpg"
+      "image": "https://cdn.pixabay.com/photo/2022/09/08/17/15/cafe-7441426_1280.png"
     },
     {
       "id": 24,
@@ -190,7 +190,7 @@
       "categorie": "Boisson",
       "quantity": "80",
       "price": "2.00",
-      "image": "the.jpg"
+      "image": "https://cdn.pixabay.com/photo/2017/11/24/16/29/tea-2975184_1280.png"
     },
     {
       "id": 25,
@@ -198,7 +198,7 @@
       "categorie": "Viande",
       "quantity": "500",
       "price": "5.00",
-      "image": "poulet.jpg"
+      "image": "https://cdn.pixabay.com/photo/2012/04/18/15/39/chicken-37365_1280.png"
     },
     {
       "id": 26,
@@ -206,7 +206,7 @@
       "categorie": "Viande",
       "quantity": "400",
       "price": "8.00",
-      "image": "boeuf.jpg"
+      "image": "https://cdn.pixabay.com/photo/2014/12/21/23/57/meat-576422_1280.png"
     },
     {
       "id": 27,
@@ -214,7 +214,7 @@
       "categorie": "Viande",
       "quantity": "450",
       "price": "6.50",
-      "image": "porc.jpg"
+      "image": "https://cdn.pixabay.com/photo/2022/02/21/12/50/pork-7026683_1280.png"
     },
     {
       "id": 28,
@@ -222,7 +222,7 @@
       "categorie": "Viande",
       "quantity": "300",
       "price": "9.00",
-      "image": "agneau.jpg"
+      "image": "https://cdn.pixabay.com/photo/2012/04/13/11/29/lamb-leg-chop-31978_1280.png"
     },
     {
       "id": 29,
@@ -230,7 +230,7 @@
       "categorie": "Viande",
       "quantity": "350",
       "price": "7.00",
-      "image": "dinde.jpg"
+      "image": "https://cdn.pixabay.com/photo/2012/05/07/15/08/turkey-48561_1280.png"
     }
   ],
   "categories": [
