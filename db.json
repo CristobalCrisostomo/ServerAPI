@@ -231,6 +231,14 @@
       "quantity": "350",
       "price": "7.00",
       "image": "https://cdn.pixabay.com/photo/2012/05/07/15/08/turkey-48561_1280.png"
+    },
+    {
+      "id": 30,
+      "name": "Pomme",
+      "categorie": "Fruit",
+      "quantity": "200",
+      "price": "2.30",
+      "image": "https://cdn.pixabay.com/photo/2013/07/12/19/17/apple-154492_1280.png"
     }
   ],
   "categories": [
