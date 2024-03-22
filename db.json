@@ -137,14 +137,6 @@
       "image": "https://cdn.pixabay.com/photo/2022/08/28/06/33/baguette-7415790_1280.png"
     },
     {
-      "id": 18,
-      "name": "Pain aux raisins",
-      "categorie": "Boulangerie",
-      "quantity": "80",
-      "price": "2.50",
-      "image": "https://cdn.pixabay.com/photo/2014/12/22/00/05/bread-576777_1280.png"
-    },
-    {
       "id": 19,
       "name": "Muffin",
       "categorie": "Boulangerie",
@@ -185,14 +177,6 @@
       "image": "https://cdn.pixabay.com/photo/2022/09/08/17/15/cafe-7441426_1280.png"
     },
     {
-      "id": 24,
-      "name": "Thé",
-      "categorie": "Boisson",
-      "quantity": "80",
-      "price": "2.00",
-      "image": "https://cdn.pixabay.com/photo/2017/11/24/16/29/tea-2975184_1280.png"
-    },
-    {
       "id": 25,
       "name": "Poulet",
       "categorie": "Viande",
@@ -223,14 +207,6 @@
       "quantity": "300",
       "price": "9.00",
       "image": "https://cdn.pixabay.com/photo/2012/04/13/11/29/lamb-leg-chop-31978_1280.png"
-    },
-    {
-      "id": 29,
-      "name": "Dinde",
-      "categorie": "Viande",
-      "quantity": "350",
-      "price": "7.00",
-      "image": "https://cdn.pixabay.com/photo/2012/05/07/15/08/turkey-48561_1280.png"
     },
     {
       "id": 30,
