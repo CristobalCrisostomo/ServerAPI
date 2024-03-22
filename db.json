@@ -73,14 +73,6 @@
       "image": "https://cdn.pixabay.com/photo/2013/07/13/13/53/kiwi-161728_1280.png"
     },
     {
-      "id": 10,
-      "name": "Farine",
-      "categorie": "Épicerie",
-      "quantity": "1000",
-      "price": "2.50",
-      "image": "https://cdn.pixabay.com/photo/2021/09/06/00/22/wheat-flour-6600578_1280.png"
-    },
-    {
       "id": 11,
       "name": "Sucre",
       "categorie": "Épicerie",
