@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Carottes",
+      "description": "Des carottes fraîches et croquantes, idéales pour les salades ou les plats mijotés.",
       "categorie": "Légume",
       "quantity": "50",
       "price": "2.50",
@@ -11,6 +12,7 @@
     {
       "id": 2,
       "name": "Tomates",
+      "description": "De délicieuses tomates juteuses, parfaites pour les salades, les sauces et les sandwichs.",
       "categorie": "Légume",
       "quantity": "100",
       "price": "3.00",
@@ -19,6 +21,7 @@
     {
       "id": 3,
       "name": "Concombres",
+      "description": "Des concombres frais et croquants, excellents pour les salades et les collations saines.",
       "categorie": "Légume",
       "quantity": "60",
       "price": "2.75",
@@ -27,6 +30,7 @@
     {
       "id": 4,
       "name": "Poivrons",
+      "description": "Des poivrons colorés et savoureux, parfaits pour les grillades, les sautés et les garnitures.",
       "categorie": "Légume",
       "quantity": "50",
       "price": "4.50",
@@ -35,6 +39,7 @@
     {
       "id": 5,
       "name": "Melons",
+      "description": "Des melons sucrés et rafraîchissants, parfaits pour les desserts et les collations estivales.",
       "categorie": "Fruit",
       "quantity": "70",
       "price": "4.50",
@@ -43,6 +48,7 @@
     {
       "id": 6,
       "name": "Pastèques",
+      "description": "Des pastèques juteuses et sucrées, idéales pour les salades de fruits et les boissons rafraîchissantes.",
       "categorie": "Fruit",
       "quantity": "60",
       "price": "5.00",
@@ -51,6 +57,7 @@
     {
       "id": 7,
       "name": "Ananas",
+      "description": "Des ananas frais et exotiques, parfaits pour les smoothies, les desserts et les cocktails.",
       "categorie": "Fruit",
       "quantity": "65",
       "price": "3.75",
@@ -59,6 +66,7 @@
     {
       "id": 8,
       "name": "Fraises",
+      "description": "Des fraises sucrées et juteuses, excellentes pour les desserts, les salades et les smoothies.",
       "categorie": "Fruit",
       "quantity": "80",
       "price": "4.00",
@@ -67,6 +75,7 @@
     {
       "id": 9,
       "name": "Kiwi",
+      "description": "Des kiwis acidulés et nutritifs, parfaits pour les salades de fruits et les collations.",
       "categorie": "Fruit",
       "quantity": "70",
       "price": "2.50",
@@ -75,6 +84,7 @@
     {
       "id": 11,
       "name": "Sucre",
+      "description": "Du sucre blanc pur, idéal pour la pâtisserie, les boissons et les desserts.",
       "categorie": "Épicerie",
       "quantity": "800",
       "price": "1.80",
@@ -83,6 +93,7 @@
     {
       "id": 12,
       "name": "Riz",
+      "description": "Du riz blanc à grains longs, parfait pour accompagner les plats principaux et les plats d'accompagnement.",
       "categorie": "Épicerie",
       "quantity": "900",
       "price": "2.20",
@@ -91,6 +102,7 @@
     {
       "id": 13,
       "name": "Huile d'olive",
+      "description": "De l'huile d'olive extra vierge de haute qualité, parfaite pour la cuisson, les vinaigrettes et les assaisonnements.",
       "categorie": "Épicerie",
       "quantity": "750",
       "price": "5.00",
@@ -99,6 +111,7 @@
     {
       "id": 14,
       "name": "Pâtes",
+      "description": "Des pâtes alimentaires classiques, parfaites pour les plats de pâtes variés et délicieux.",
       "categorie": "Épicerie",
       "quantity": "700",
       "price": "1.50",
@@ -107,6 +120,7 @@
     {
       "id": 15,
       "name": "Pain",
+      "description": "Du pain frais et moelleux, idéal pour accompagner les repas ou pour préparer des sandwichs.",
       "categorie": "Boulangerie",
       "quantity": "150",
       "price": "3.00",
@@ -115,6 +129,7 @@
     {
       "id": 16,
       "name": "Croissants",
+      "description": "Des croissants dorés et feuilletés, parfaits pour le petit-déjeuner ou les pauses gourmandes.",
       "categorie": "Boulangerie",
       "quantity": "100",
       "price": "1.50",
@@ -123,6 +138,7 @@
     {
       "id": 17,
       "name": "Baguettes",
+      "description": "Des baguettes croustillantes et savoureuses, idéales pour accompagner les repas ou faire des sandwiches.",
       "categorie": "Boulangerie",
       "quantity": "120",
       "price": "2.00",
@@ -131,6 +147,7 @@
     {
       "id": 19,
       "name": "Muffin",
+      "description": "Des muffins moelleux et parfumés, parfaits pour le petit-déjeuner ou une pause gourmande.",
       "categorie": "Boulangerie",
       "quantity": "90",
       "price": "2.25",
@@ -139,6 +156,7 @@
     {
       "id": 20,
       "name": "Eau minérale",
+      "description": "De l'eau minérale pure et rafraîchissante, parfaite pour étancher votre soif à tout moment de la journée.",
       "categorie": "Boisson",
       "quantity": "200",
       "price": "1.00",
@@ -147,6 +165,7 @@
     {
       "id": 21,
       "name": "Coca-Cola",
+      "description": "La célèbre boisson gazeuse au cola, rafraîchissante et pétillante, parfaite pour accompagner les repas ou en tant que boisson rafraîchissante.",
       "categorie": "Boisson",
       "quantity": "150",
       "price": "1.50",
@@ -155,6 +174,7 @@
     {
       "id": 22,
       "name": "Jus d'orange",
+      "description": "Du jus d'orange frais et vitaminé, parfait pour commencer votre journée avec une dose de fraîcheur et de vitalité.",
       "categorie": "Boisson",
       "quantity": "120",
       "price": "2.00",
@@ -163,6 +183,7 @@
     {
       "id": 23,
       "name": "Café",
+      "description": "Du café fraîchement moulu et aromatique, parfait pour vous donner un coup de fouet et savourer un moment de détente.",
       "categorie": "Boisson",
       "quantity": "100",
       "price": "2.50",
@@ -171,6 +192,7 @@
     {
       "id": 25,
       "name": "Poulet",
+      "description": "Des morceaux de poulet frais et tendres, parfaits pour préparer une variété de plats savoureux et nutritifs.",
       "categorie": "Viande",
       "quantity": "500",
       "price": "5.00",
@@ -179,6 +201,7 @@
     {
       "id": 26,
       "name": "Boeuf",
+      "description": "De la viande de bœuf de qualité, idéale pour préparer des steaks, des ragoûts et d'autres plats savoureux.",
       "categorie": "Viande",
       "quantity": "400",
       "price": "8.00",
@@ -187,6 +210,7 @@
     {
       "id": 27,
       "name": "Porc",
+      "description": "De la viande de porc tendre et savoureuse, parfaite pour une variété de recettes de viande délicieuses et réconfortantes.",
       "categorie": "Viande",
       "quantity": "450",
       "price": "6.50",
@@ -195,14 +219,16 @@
     {
       "id": 28,
       "name": "Agneau",
+      "description": "De l'agneau tendre et savoureux, idéal pour préparer des plats traditionnels et des recettes raffinées.",
       "categorie": "Viande",
       "quantity": "300",
       "price": "9.00",
       "image": "https://cdn.pixabay.com/photo/2012/04/13/11/29/lamb-leg-chop-31978_1280.png"
     },
     {
-      "id": 30,
+      "id": 29,
       "name": "Pomme",
+      "description": "Des pommes fraîches et croquantes, riches en saveur et en nutriments, parfaites pour les collations saines et les desserts.",
       "categorie": "Fruit",
       "quantity": "200",
       "price": "2.30",
